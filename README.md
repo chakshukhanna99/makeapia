@@ -15,7 +15,7 @@ To get started with the API, follow these steps:
 1. Clone the repository
 2. Install dependencies using `npm install`
 3. Set up a MongoDB database and configure the connection in the project
-4. Run the server using `npm start`
+4. Run the server using `npm run dev`
 
 ## API Documentation
 For detailed documentation on how to interact with the API and examples of query usage, please refer to the API documentation included in this repository.
