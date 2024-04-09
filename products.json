@@ -1,0 +1,33 @@
+[
+    {
+      "name": "iPhone",
+      "price": 799,
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy S20",
+      "price": 699,
+      "featured": true,
+      "company": "apple"
+    },
+    {
+      "name": "Pixel 5",
+      "price": 599,
+      "featured": false,
+      "company": "apple"
+    },
+    {
+      "name": "OnePlus 8T",
+      "price": 599,
+      "featured": false,
+      "company": "samsung"
+    },
+    {
+      "name": "Xperia 1 II",
+      "price": 949,
+      "featured": true,
+      "company": "samsung"
+    }
+  ]
+  
